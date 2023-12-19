@@ -1,6 +1,6 @@
 {
   "name": "lit-js-sdk-old-w-pgn",
-  "version": "1.1.252",
+  "version": "1.1.253",
   "description": "LIT Javascript SDK",
   "source": "src/index.js",
   "main": "build/index.js",
